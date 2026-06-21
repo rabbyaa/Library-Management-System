@@ -1,0 +1,1 @@
+A full-stack Library Management System designed to manage books, users, and borrowing operations efficiently. This project helps automate library workflows such as book issuance, returns, and record tracking.
